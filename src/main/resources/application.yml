@@ -1,0 +1,3 @@
+hdfs:
+  hdfsPath: hdfs://bigdata-master:8020
+  hdfsName: bigdata-master

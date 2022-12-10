@@ -3,6 +3,9 @@ package com.example.hadoop_final_homework_202003117;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * @author MrCh1ppy
+ */
 @SpringBootApplication
 public class HadoopFinalHomework202003117Application {
 

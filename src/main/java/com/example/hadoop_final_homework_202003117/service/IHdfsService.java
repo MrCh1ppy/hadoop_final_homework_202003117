@@ -1,10 +1,11 @@
 package com.example.hadoop_final_homework_202003117.service;
 
 import org.apache.hadoop.fs.BlockLocation;
+import org.springframework.web.multipart.MultipartFile;
 
 import java.util.List;
 import java.util.Map;
-public interface HdfsService {
+public interface IHdfsService {
 	// 创建文件夹
 	boolean makeFolder(String path);
 	// 是否存在文件
