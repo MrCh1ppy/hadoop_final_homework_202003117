@@ -1,4 +1,4 @@
-package com.example.hadoop_final_homework_202003117.reduce;
+package com.example.hadoop_final_homework_202003117.map_reduce;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
